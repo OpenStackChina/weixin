@@ -148,6 +148,10 @@ Quota, it is hard to say love you!
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6976
 
+Orchestrating Kolla - Building An End-to-end Deployment Solution
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7606
+
 OpenStack L2的越层通信
 --------------
 Cross OpenStack l2 communicate
@@ -159,10 +163,6 @@ https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7167
 Tuning RabbitMQ at Large Scale Cloud
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7617
-
-Orchestrating Kolla - Building An End-to-end Deployment Solution
---------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7606
 
 Accelerating Software-driven Networking in OpenStack Clouds
 --------------
