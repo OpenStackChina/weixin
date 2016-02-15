@@ -18,64 +18,46 @@ Save your money in a different way: A Framework for Dynamic Consolidation of VMs
 ---------------
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6832
 
+中国银联：为中国最大的银间互联OpenStack集群寻找SDN银弹
+---------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7406
 
+简介：主要介绍银联研究院和英特尔亚太研发中心的联合SDN研究项目，项目通过构建5种OpenStack下的SDN构建方案（基于X86的1种纯粹开源方案和2种商业方案，基于网络硬件的1种ODL方案和1种非ODL方案），通过在L2-L7层功能的完备性、与OpenStack结合深度、开放程度、高可用成熟度、自动化程度、性能等6个方面进行对比，最后结合银联业务特点，给出未来规划建议。
 
-A Swift-All-In-One in a few easy steps.
+Quota, it is hard to say love you!
+---------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6976
 
- 1. `vagrant up`
- 1. `vagrant ssh`
- 1. `echo "awesome" > test`
- 1. `swift upload test test`
- 1. `swift download test test -o -`
+农信银——深入了解中国Openstack的金融行业实践
+---------------
+Deep into China OpenStack Solution for Financial Industry —- Rural Credit Bank
 
-This project assumes you have Virtualbox and Vagrant.
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7928
 
- * https://www.virtualbox.org/wiki/Downloads
- * http://www.vagrantup.com/downloads.html
+动手实战：利用OpenStack Swift开发互联网/移动APP
+---------------
+How to Develop an Internet or Mobile Application with OpenStack Swift?
 
-running-tests
-=============
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8085
 
-You should be able to run most tests without too much fuss once SSH'ed into the
-VM.
+阿里云和OpenStack的混合云方案研发之路
+----------------
+The Road to Hybrid Cloud with OpenStack and Aliyun
 
- 1. `.unittests`
- 1. `.functests`
- 1. `.probetests`
- 1. `vtox -e pep8`
- 1. `vtox -e py27`
- 1. `vtox  # run all gate checks`
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6917 
 
-localrc-template
-================
+主要介绍九州云与阿里云合作的OpenStack混合云解决方案，介绍了如何集成如何将阿里云集成到OpenStack产品中，如何做的认证整合（Federation）、自动扩容（Cloud Bursting）、容灾和自动化部署等插件。最后还会展望阿里云和OpenStack合作伙伴一起，未来在OpenStack社区上的进一步联合投入。
 
-A few things are configurable, see `localrc-template`.
+拥抱OpenStack——国家电网如何避免厂商锁定
+---------------
+State Grid Corporation of China embraces OpenStack to avoid vendor lock-in
 
- 1. `cp localrc-template localrc`
- 1. `vi localrc`
- 1. `source localrc`
- 1. `vagrant provision`
- 1. `vagrant ssh`
- 1. `rebuildswift`
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7995
 
-ninja-dev-tricks
-================
+具备高级性能资源感知的VNF编排方式
+--------------
+Enhanced Platform Aware deployment of VNFs
 
-A few scripts are available to make your dev life easier.
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7001  
 
- 1. `vagrant up --provision` will bring up your VM in working order (useful
-    when your VM is halted)
- 1. `source localrc; vagrant provision` on your host to push the new Chef bits
-    in place (useful if you change localrc)
- 1. `rebuildswift` to reapply everything like it would be at the end of Chef
-    time (useful to revert local config changes)
- 1. `resetswift` will wipe the drives and leave any local config changes in
-    place (useful just to clean out Swift data)
- 1. `reinstallswift` will make sure all of the bin scripts are installed
-    correctly and restart the main swift processes (useful if you change
-    branches)
- 1. `autodoc [swift-specs]` will build the sphinx docs and watch files for
-    changes, and upload them to a public container on your vm so you can
-    review them
- 1. `vtox` will hack the local tox.ini and setup.py so you can run tox tests
-    successfully on the swift repo in the `/vagrant` directory
+简介：介绍如何基于Tacker做为VNF编排器（VNF Orchestration），如何通过对CPU pinning, Huge Pages, NUMA 和 SRIOV的模版化，是的VNF资源分配时能够更好的感知底层硬件的性能，以实现更佳的性能匹配。
