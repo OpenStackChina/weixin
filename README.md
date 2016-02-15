@@ -1,6 +1,24 @@
-# weixin
-vagrant-swift-all-in-one
-========================
+# 请为OpenStack Summit上的中国声音投票
+
+深入理解跨地域多活Swift存储集群
+----------------
+A Close Look at the Behaviors of the Multi-Region Swift Clusters
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8012 
+
+简介：本文介绍了实现通过Swift实现双活、多活存储集群的一些经验和心得
+
+联想集团如何凭借OpenStack实现业务创新
+----------------
+How OpenStack helps business innovation at Lenovo
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7945
+
+Save your money in a different way: A Framework for Dynamic Consolidation of VMs in Openstack Clouds
+---------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6832
+
+
 
 A Swift-All-In-One in a few easy steps.
 
