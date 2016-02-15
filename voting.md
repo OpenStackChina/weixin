@@ -190,3 +190,30 @@ Trigger-type billing project for Openstack - Bilean,
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7020
 
+Freeze it before you start ! : Application level consistency snapshot and disaster recovery
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7098
+
+OpenStack Interoperability, today and tomorrow	
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6962
+
+Spanning your overlay network across clouds
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8010
+
+Putting together a Cross-Cloud heterogeneous Network using Standard APIs	
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8028
+
+Disaster Recovery for Hybrid Clouds	
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8017
+
+Breaking the network scale limit – Crossing the 2K host mark with a single Neutron zone
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8021
+
+Next Generation Service Chaining - Service Injection
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6856
