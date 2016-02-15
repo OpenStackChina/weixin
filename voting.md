@@ -14,10 +14,6 @@ How OpenStack helps business innovation at Lenovo
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7945
 
-Save your money in a different way: A Framework for Dynamic Consolidation of VMs in Openstack Clouds
----------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6832
-
 中国银联：为中国最大的银间互联OpenStack集群寻找SDN银弹
 ---------------
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7406
@@ -44,10 +40,6 @@ https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6917
 
 主要介绍九州云与阿里云合作的OpenStack混合云解决方案，介绍了如何集成如何将阿里云集成到OpenStack产品中，如何做的认证整合（Federation）、自动扩容（Cloud Bursting）、容灾和自动化部署等插件。最后还会展望阿里云和OpenStack合作伙伴一起，未来在OpenStack社区上的进一步联合投入。
 
-Quota, it is hard to say love you!
----------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6976
-
 拥抱OpenStack——国家电网如何避免厂商锁定
 ---------------
 State Grid Corporation of China embraces OpenStack to avoid vendor lock-in
@@ -61,10 +53,6 @@ Enhanced Platform Aware deployment of VNFs
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7001  
 
 简介：介绍如何基于Tacker做为VNF编排器（VNF Orchestration），如何通过对CPU pinning, Huge Pages, NUMA 和 SRIOV的模版化，是的VNF资源分配时能够更好的感知底层硬件的性能，以实现更佳的性能匹配。
-
-Cross OpenStack l2 communicate
---------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7167
 
 Kubernetes、Mesos与Docker Swarm的抉择：3款Magnum COE（容器编排工具）孰优孰劣
 --------------
@@ -148,6 +136,24 @@ Dive into the migration of stateful application to DCOS Platform - the practice 
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8845
 
+另类省钱之道：虚机在OpenStack中的动态整合框架
+--------------
+Save your money in a different way: A Framework for Dynamic Consolidation of VMs in Openstack Clouds
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6832
+
+Quota，难说爱你！
+--------------
+Quota, it is hard to say love you!
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6976
+
+OpenStack L2的越层通信
+--------------
+Cross OpenStack l2 communicate
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7167
+
 大规模云环境中的Rabbit MQ调优
 --------------
 Tuning RabbitMQ at Large Scale Cloud
@@ -183,3 +189,4 @@ Bilean——OpenStack触发式计费项目
 Trigger-type billing project for Openstack - Bilean,
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7020
+
