@@ -198,22 +198,10 @@ OpenStack Interoperability, today and tomorrow
 --------------
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6962
 
-Spanning your overlay network across clouds
+Cinder, Manila, Smaug as SDS controller
 --------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8010
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7705
 
-Putting together a Cross-Cloud heterogeneous Network using Standard APIs	
+How to strike a balance/align between your community work and your employer's objectives in OpenStack
 --------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8028
-
-Disaster Recovery for Hybrid Clouds	
---------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8017
-
-Breaking the network scale limit – Crossing the 2K host mark with a single Neutron zone
---------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8021
-
-Next Generation Service Chaining - Service Injection
---------------
-https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6856
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7299
