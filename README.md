@@ -108,3 +108,78 @@ https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7594
 
 主要介绍如何在OpenStack之上模拟大数据的负载（Workload），提出哪些因素（Factors）会影响大数据在OpenStack运行时候的性能，通过Sahara的在实际客户中的测试数据结果的对比说明大数据在OpenStack中的应用。
 
+中国电信运营商们的NFV部署方案
+--------------
+NFV Deployment in China CSPs
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7414
+
+OpenStack中的数据保护
+--------------
+Data protection of OpenStack
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8003
+
+简介：文章主要介绍如何在OpenStack中通过Freezer构建备份机制，如何配置以实现备份功能、如何做针对卷的备份和虚拟机的备份
+
+某大学的OpenStack最佳利旧实践
+--------------
+Best Practices on the old machines reusing for the traditional University
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/7708
+
+在openstack上搭建企业数据中心
+--------------
+Build the company’s data center platform on Openstack
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8051
+
+文章主要介绍如何将传统的私有云构建在openstack上。同时介绍了开源openstack数据中心平台架构和各功能模块。并分享了私有云平台搭建过程中遇到的问题和解决方法，分析了私有云平台的安全性以及弹性计算资源分配能力。openstack,NFV,大数据以及分析统计等一同推动着传统数据中心向开源数据中心的转化。
+
+上千节点、单一集群——OpenStack大规模部署的性能分析
+--------------
+Performance analysis in large-scale deployment - A single thousand-nodes cluster.
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8031
+
+深入了解中国移动对Stateful应用迁移至DCOS的过程
+--------------
+Dive into the migration of stateful application to DCOS Platform - the practice in China Mobile
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8845
+
+大规模云环境中的Rabbit MQ调优
+--------------
+Tuning RabbitMQ at Large Scale Cloud
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7617
+
+运用Neutron为OpenStack公有云构建大规模覆盖网络
+--------------
+Building large scale overlay network with Neutron for Openstack Public Cloud
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8457
+
+Nova scheduler 性能瓶颈分析
+--------------
+Dive into nova scheduler performance - Where is the bottleneck?
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7129
+
+FuleBox：以Fule为基础的跨平台OpenStack测试与部署工具
+--------------
+FuelBox: a Fuel-based Automation Tool for Cross-platform OpenStack Testing & Deployment
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/8234
+
+生产就绪！将OpenStack用于中小型公司
+--------------
+Make openstack production ready for middle-small company
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/8489
+
+Bilean——OpenStack触发式计费项目
+--------------
+Trigger-type billing project for Openstack - Bilean,
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7020
