@@ -148,9 +148,13 @@ Quota, it is hard to say love you!
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6976
 
-Orchestrating Kolla - Building An End-to-end Deployment Solution
+利用并集成Kolla以实现端到端的基于容器的自动化部署方案
 --------------
+Orchestrating Kolla - Building An End-to-end Deployment Solution
+
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7606
+
+Kolla项目提供了一些工具和脚本，把OpenStack的服务都容器化后，生成Docker镜像，并利用Ansible或者Mesos部署到物理机上。但是Kolla并不是一个完整的自动化部署方案。它没有图形界面，修改部署设置还要通过编辑yaml文件实现。也没有主机发现功能，资产要人工导入到Ansible的资产配制文件中。本话题主要介绍如何在Fuel中集成Kolla。Fuel是一个很受欢迎的OpenStack部署工具，功能齐全，界面友好。通过简单修改Fuel的任务引擎，就可以实现从Fuel调用Kolla的Ansible脚本。通过编写Ansible的动态资产脚本，可以将Fuel发现的物理机和用户在Web界面上编辑的集群设置，导出到Kolla中。通过将Kolla集成到Fuel中，我们既得到了Fuel现在大部分的功能和友好的界面，又能实现容器化的部署，享受容器化OpenStack服务的各种好处。本话题还将探讨如何使用Kolla实现OpenStack组件的升级，以及在OpenStack容器化的CI/CD方面的一些经验教训。
 
 OpenStack L2的越层通信
 --------------
