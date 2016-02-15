@@ -160,6 +160,14 @@ Tuning RabbitMQ at Large Scale Cloud
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7617
 
+Orchestrating Kolla - Building An End-to-end Deployment Solution
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7606
+
+Accelerating Software-driven Networking in OpenStack Clouds
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7009
+
 运用Neutron为OpenStack公有云构建大规模覆盖网络
 --------------
 Building large scale overlay network with Neutron for Openstack Public Cloud
@@ -172,6 +180,10 @@ Dive into nova scheduler performance - Where is the bottleneck?
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7129
 
+Dragonflow - Neutron Done the SDN Way
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6859
+
 FuleBox：以Fule为基础的跨平台OpenStack测试与部署工具
 --------------
 FuelBox: a Fuel-based Automation Tool for Cross-platform OpenStack Testing & Deployment
@@ -183,6 +195,10 @@ https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/8234
 Make openstack production ready for middle-small company
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/8489
+
+The Performance Issues of Cinder Under High Concurrent Pressure and Large-scale Environment
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8001
 
 Bilean——OpenStack触发式计费项目
 --------------
@@ -205,3 +221,28 @@ https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7705
 How to strike a balance/align between your community work and your employer's objectives in OpenStack
 --------------
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7299
+
+The Performance Issues of Cinder Under High Concurrent Pressure and Large-scale Environment
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8001
+
+Problems and optimization of the performance testing of large scale clusters
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7919
+
+What Can We Get From Openstack Logs Using EHK
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7912
+
+Openstack Monitor System Using Ceilometer+Influxdb+Grafana
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7929
+
+Build Automatic Monitor&Devops Openstack Cloud System using Grafana/Influxdb/Diamond/Consul
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8112
+
+The All-in-one Deployment of Pre-integrated Optimization Model and Its Derivatives for Large-scale Deployment Architecture Conceive
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/7484
+
