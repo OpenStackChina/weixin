@@ -102,6 +102,10 @@ NFV Deployment in China CSPs
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7414
 
+Userspace only for Ceph: Boost performance from network stack to disk
+--------------
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7347
+
 OpenStack中的数据保护
 --------------
 Data protection of OpenStack
