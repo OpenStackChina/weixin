@@ -1,6 +1,6 @@
 # 请为OpenStack Summit上的中国声音投票
 
-深入理解跨地域多活Swift存储集群
+深入理解跨地域多活OpenStack Swift存储集群
 ----------------
 A Close Look at the Behaviors of the Multi-Region Swift Clusters
 
