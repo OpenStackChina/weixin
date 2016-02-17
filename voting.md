@@ -6,7 +6,7 @@ A Close Look at the Behaviors of the Multi-Region Swift Clusters
 
 https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8012 
 
-简介：本文介绍了实现通过Swift实现双活、多活存储集群的一些经验和教训。内容不仅仅来自于自身项目实践的总结，还包括IRC上一些国外用户讨论过的一些坑。
+简介：本文介绍了实现通过Swift实现双活、多活存储集群的一些经验和教训。内容不仅仅来自于自身项目实践的总结，还包括IRC上一些国外用户讨论过的一些坑。该内容能够对其他存储多活方案的设计也有借鉴意义。
 
 联想集团如何凭借OpenStack实现业务创新
 ----------------
